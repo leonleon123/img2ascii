@@ -7,7 +7,9 @@ line argument) is how many characters wide the ASCII picture is going to be. Fol
 best results possible. Invert usually helps when picture is colorful and with higher level
 of detail. For logos or simple shapes it usually doesn't make that much of a difference.
 
-Usage: python imageProc.py <image> <width in px> [invert] [contrast] [sharpness] [brightness]
+Usage: 
+
+            python imageProc.py <image> <width in px> [invert] [contrast] [sharpness] [brightness]
             
             <image>         .... path to the source image
             
