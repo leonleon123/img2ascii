@@ -23,5 +23,8 @@ Usage:
             
             [brightness]    .... 1 for original, 0-1 for less, >1 for more
             
+            
+            python imageProc.py --help also displays this
+            
 
 Made with python 3.7.1
