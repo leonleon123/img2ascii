@@ -8,11 +8,18 @@ best results possible. Invert usually helps when picture is colorful and with hi
 of detail. For logos or simple shapes it usually doesn't make that much of a difference.
 
 Usage: python imageProc.py <image> <width in px> [invert] [contrast] [sharpness] [brightness]
+            
             <image>         .... path to the source image
+            
             <width>         .... number of characters in a line
+            
             [invert]        .... 0 for original, 1 for inverted
+            
             [contrast]      .... 1 for original, 0-1 for less, >1 for more
+            
             [sharpness]     .... 1 for original, 0-1 for less, >1 for more
+            
             [brightness]    .... 1 for original, 0-1 for less, >1 for more
+            
 
 Made with python 3.7.1
